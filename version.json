@@ -1,4 +1,6 @@
 {
-  "versionId": "1.0.2",
-  "url":"https://mocml.github.io/testota/bundle-1.0.1.zip"
+  "versionId": "1.0.0",
+  "numberVersion":1,
+  "enabled": true,
+  "url":"https://mocml.github.io/testota/1.0.0v1.zip"
 }
